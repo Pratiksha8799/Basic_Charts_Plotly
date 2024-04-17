@@ -43,13 +43,13 @@ GitHub
 
 ## Screenshots
 * Basic line chart
-![App Screenshot](https://github.com/Pratiksha8799/Python-Projects/blob/main/Basic_Charts/images/Basic_Line.PNG)
+![App Screenshot](https://github.com/Pratiksha8799/Basic_Charts_Plotly/blob/main/images/Basic_Line.PNG)
 * Basic bar chart
-![App Screenshot](https://github.com/Pratiksha8799/Python-Projects/blob/main/Basic_Charts/images/basic_bar.PNG)
+![App Screenshot](https://github.com/Pratiksha8799/Basic_Charts_Plotly/blob/main/images/basic_bar.PNG)
 * Basic sunburst chart
-![App Screenshot](https://github.com/Pratiksha8799/Python-Projects/blob/main/Basic_Charts/images/basic_sunbrust.PNG)
+![App Screenshot](https://github.com/Pratiksha8799/Basic_Charts_Plotly/blob/main/images/basic_sunbrust.PNG)
 * Plot using dash framework
-![App Screenshot](https://github.com/Pratiksha8799/Python-Projects/blob/main/Basic_Charts/images/dash1.PNG)
+![App Screenshot](https://github.com/Pratiksha8799/Basic_Charts_Plotly/blob/main/images/dash1.PNG)
 
 
 ## Documentation
