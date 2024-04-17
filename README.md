@@ -5,7 +5,7 @@ I started this project to learn data visualization using plotly library. In this
 Plotly provides various tools for interacting with the plots such as adding dropdowns, buttons, and sliders. The plot layout’s update menu feature can be used to build these. 
 Dash is based on Plotly, Flash, and ReactJS. It’s used to make live graphs and interactive online dashboards. For uses like stocks, medical, etc., this is significant.
 
-![Alt Text](https://github.com/Pratiksha8799/Python-Projects/blob/main/Basic_Charts/images/Visualization.png)
+![Alt Text](https://github.com/Pratiksha8799/Basic_Charts_Plotly/blob/main/images/Visualization.png)
 
 
 
